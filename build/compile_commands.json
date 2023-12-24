@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/build",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.1 -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/TiDoc.dir/src/main.cpp.o -c /Users/chathamabate/Desktop/Git-Workspaces/ti-doc/src/main.cpp",
-  "file": "/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/src/main.cpp",
-  "output": "CMakeFiles/TiDoc.dir/src/main.cpp.o"
-}
-]

@@ -1,4 +1,0 @@
-/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/build/CMakeFiles/TiDoc.dir
-/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/build/CMakeFiles/test.dir
-/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/build/CMakeFiles/edit_cache.dir
-/Users/chathamabate/Desktop/Git-Workspaces/ti-doc/build/CMakeFiles/rebuild_cache.dir
